@@ -2,7 +2,7 @@
 
 **UniBitX Paper Wallet Generator**
 
-https://unibitx.app/paper-wallet
+https://unibitx.app/paper-wallet/index.html
 
 ## LICENSE
 
